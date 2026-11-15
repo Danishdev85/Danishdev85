@@ -246,6 +246,10 @@ footer { border-top: 1px solid var(--border); padding: 30px 0; }
   .nav-links { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; background: rgba(24, 9, 42, 0.97); backdrop-filter: blur(16px); padding: 20px 6%; gap: 18px; border-bottom: 1px solid var(--border); display: none; align-items: flex-start; }
   .nav-links.open { display: flex; }
   .hero { padding-top: 126px; }
+  .arch-frame { margin-bottom: 20px; }
+  .badge { font-size: 12.5px; padding: 8px 12px; }
+  .badge-1 { top: auto; bottom: -14px; left: 10px; }
+  .badge-2 { bottom: 40px; right: 6px; }
   .cert-grid, .contact-rows { grid-template-columns: 1fr; }
   .contact-panel { padding: 40px 24px; }
   section { padding: 70px 0; }
