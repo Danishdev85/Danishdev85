@@ -166,6 +166,7 @@ section.alt { background: var(--bg-2); }
 .ph-2 { background: radial-gradient(circle at 75% 25%, #f472b6, transparent 55%), linear-gradient(130deg, #701a75, #6d28d9); }
 .ph-3 { background: radial-gradient(circle at 30% 80%, #a855f7, transparent 55%), linear-gradient(130deg, #831843, #4c1d95); }
 .ph-4 { background: radial-gradient(circle at 70% 75%, #e879f9, transparent 55%), linear-gradient(130deg, #581c87, #9d174d); }
+.ph-5 { background: radial-gradient(circle at 40% 30%, #f0abfc, transparent 55%), linear-gradient(130deg, #6d28d9, #db2777); }
 .proj-mono { font-size: 52px; font-weight: 800; color: rgba(255,255,255,0.9); text-shadow: 0 8px 30px rgba(0,0,0,0.35); }
 .proj-badge { position: absolute; top: 13px; right: 13px; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase; background: rgba(21,7,34,0.6); border: 1px solid rgba(255,255,255,0.3); color: #fff; padding: 5px 11px; border-radius: 999px; backdrop-filter: blur(6px); }
 .proj-body { padding: 24px 26px 26px; display: flex; flex-direction: column; gap: 9px; flex: 1; }
